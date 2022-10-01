@@ -12,15 +12,17 @@ Classes used in the app:
 * RadixTree: class that implements a templated map using the radix tree data structure
 
 Example:
-a <br />Enter the member's email for whom you want to find matches: smbirg@hotmail.com
-a <br />The member has the following attributes:
-hobby --> coding
-job --> professor
-gender --> male
-hobby --> baking
-favorite food --> b'stilla
-How many shared attributes must matches have? 5
-The following members were good matches:
-Jamie Lai at jamie_lai24143@hotmail.com with 13 matches! Stephen Li at slee1724@gmail.com with 11 matches!
-Emile Gin at egin9389@xfinity.com with 10 matches!
-Jame Buoy at jamebuoy2008@gmail.com with 6 matches! Karrie Wong at kw4224@aol.com with 6 matches!
+<br />Enter the member's email for whom you want to find matches: sm<span>birg@hotmail.com
+<br />The member has the following attributes:
+<br />hobby --> coding
+<br />job --> professor
+<br />gender --> male
+<br />hobby --> baking
+<br />favorite food --> b'stilla
+<br />How many shared attributes must matches have? 5
+<br />The following members were good matches:
+<br />Jamie Lai at jamie_lai<span>24143@hotmail.com with 13 matches! 
+<br />Stephen Li at slee<span>1724@gmail.com with 11 matches!
+<br />Emile Gin at egin<span>9389@xfinity.com with 10 matches!
+<br />Jame Buoy at jame<span>buoy2008@gmail.com with 6 matches! 
+<br />Karrie Wong at kw<span>4224<span>@aol.com with 6 matches!
