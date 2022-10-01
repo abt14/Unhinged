@@ -12,8 +12,8 @@ Classes used in the app:
 * RadixTree: class that implements a templated map using the radix tree data structure
 
 Example:
-Enter the member's email for whom you want to find matches: smbirg@hotmail.com
-The member has the following attributes:
+a <br />Enter the member's email for whom you want to find matches: smbirg@hotmail.com
+a <br />The member has the following attributes:
 hobby --> coding
 job --> professor
 gender --> male
